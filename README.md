@@ -1,4 +1,4 @@
-# Function-X-Algiers
+# Junction-X-Algiers
 
 ## Repository Description
 This repository contains the backend code for the project "Reinventing the Training Hub." 
